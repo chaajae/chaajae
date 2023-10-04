@@ -1,5 +1,5 @@
 
-🧑‍💻 portfolio https://chaajae.notion.site/chaajae/4135204de91f4cb98f72c4519571fd34
+🧑‍💻 portfolio <a href="https://chaajae.notion.site/chaajae/4135204de91f4cb98f72c4519571fd34">aa </a>  
 <!--
 **chaajae/chaajae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
